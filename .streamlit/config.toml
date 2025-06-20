@@ -1,0 +1,8 @@
+[server]
+runOnSave = false
+
+[logger]
+level = "error"
+
+[global]
+disableWatchdogWarning = true
